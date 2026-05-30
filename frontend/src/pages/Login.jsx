@@ -41,10 +41,10 @@ export default function Login() {
             alt="Trello"
             style={styles.logoImg}
           />
-          <h1 style={styles.logo}>Trello Lite</h1>
+          <h1 style={styles.logo}>Task Management System</h1>
         </div>
 
-        <p style={styles.subtitle}>Manage your work beautifully</p>
+        <p style={styles.subtitle}></p>
 
         <input
           style={styles.input}
@@ -81,7 +81,7 @@ const styles = {
   container: {
     height: "100vh",
     background:
-      "linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url('https://stock.adobe.com/in/images/businessman-engages-futuristic-biometric-security-for-digital-identity-and-data-protection-a-modern-concept/1831415092')",
+      "linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1517430816045-df4b7de11d1d')",
     backgroundSize: "cover",
     backgroundPosition: "center",
     display: "flex",
@@ -101,7 +101,7 @@ const styles = {
     width: "340px",
     padding: "35px",
     borderRadius: "15px",
-    background: "rgba(102, 214, 241, 0.1)",
+    background: "rgba(123, 224, 250, 0.1)",
     backdropFilter: "blur(20px)",
     boxShadow: "0 8px 32px rgba(0,0,0,0.3)",
     textAlign: "center",

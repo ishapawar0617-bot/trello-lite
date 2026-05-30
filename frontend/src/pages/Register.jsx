@@ -48,7 +48,7 @@ export default function Register() {
           /* 🔥 BACKGROUND IMAGE ADDED */
           background: 
             linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)),
-            url('https://stock.adobe.com/in/images/businessman-selecting-register-now-button-on-digital-interface-for-user-enrollment-and-account-creation/1927469273');
+            url('https://images.unsplash.com/photo-1557683316-973673baf926');
 
           background-size: cover;
           background-position: center;
@@ -90,7 +90,7 @@ export default function Register() {
         .login-btn {
           background: none;
           border: none;
-          color: #0052cc;
+          color: #3f81e4;
           font-weight: 500;
           cursor: pointer;
         }
@@ -108,7 +108,7 @@ export default function Register() {
 
         .card h2 {
           margin-bottom: 20px;
-          color: #172b4d;
+          color: #b1c5e9;
         }
 
         .card input {
@@ -128,7 +128,7 @@ export default function Register() {
           width: 100%;
           margin-top: 15px;
           padding: 10px;
-          background: #0052cc;
+          background: #2bc7f7;
           color: #fff;
           border: none;
           border-radius: 5px;
@@ -136,7 +136,7 @@ export default function Register() {
         }
 
         .card button:hover {
-          background: #0065ff;
+          background: #1dacdc;
         }
 
         .card p {

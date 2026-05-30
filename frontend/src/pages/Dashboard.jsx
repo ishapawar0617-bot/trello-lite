@@ -53,7 +53,7 @@ export default function Dashboard() {
           min-height: 100vh;
           background:
             linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)),
-            url('https://stock.adobe.com/in/images/medium-shot-of-a-virtual-dashboard-displaying-bots-managing-trade-break-reconciliations-with-a-blurred-background-emphasizing-automated-processing-efficiency/1951804971');
+            url('https://images.unsplash.com/photo-1492724441997-5dc865305da7');
           background-size: cover;
           background-position: center;
         }

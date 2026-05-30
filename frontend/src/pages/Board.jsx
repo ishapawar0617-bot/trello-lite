@@ -64,7 +64,7 @@ export default function Board() {
           min-height: 100vh;
           background:
             linear-gradient(rgba(160, 204, 226, 0.35), rgba(87, 213, 217, 0.55)),
-            url("https://stock.adobe.com/in/images/software-development-digital-technology-concept-software-developer-coding-web-banner-or-background/886495385");
+            url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee");
           background-size: cover;
           background-position: center;
         }
